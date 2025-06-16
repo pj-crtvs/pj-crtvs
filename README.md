@@ -35,7 +35,7 @@
 |-----------|----------------|------------------|
 | `The Innovator Jr Website` | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · React · Photoshop · Illustrator |
 | `The Innovator Jr School Paper` | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Photoshop · Illustrator |
-| `Phylum Expedition` | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. | Aseprite · Game Design Principles · Educational Research |
+| <a href = "https://gd.games/sairon/phylum-expedition">`Phylum Expedition`<a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. | Aseprite · Game Design Principles · Educational Research |
 
 ---
 
