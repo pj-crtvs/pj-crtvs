@@ -67,11 +67,3 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
 </p>
-
-## 🧰 Tech & Tools
-
-```yaml
-Languages:    HTML, CSS, JavaScript, PHP, SQL, Python
-Frameworks:   Tailwind, Bootstrap (learning React soon!)
-Design:       Photoshop, InDesign, Illustrator, Canva
-Other:        Git/GitHub, VS Code, Figma, WordPress
