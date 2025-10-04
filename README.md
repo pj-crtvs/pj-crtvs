@@ -4,6 +4,7 @@
 </div>
 
 ---
+---
 
 ## 🌱 About Me
 
@@ -18,13 +19,10 @@
 
 🧠 **Learning Focus:**  
 - Full-Stack Web Development (HTML, CSS, JS, React, Tailwind)
-- Python & PHP for backend systems
-- Data structures, discrete math, and logic
-- Advocacy journalism
+- Machine Learning
 
 🎨 **Creative Side:**  
 - Layout and graphic design (Adobe Photoshop, Illustrator, InDesign, and Canva )
-- Digital zines, illustrations, and visual narratives
 - Volunteer layout artist for national youth organizations like **Assortedge** and **The Frontman**
 
 ---
@@ -43,7 +41,7 @@
 
 ### 💻 Programming & Web Development
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -54,9 +52,9 @@
 
 ---
 
-### 🎨 Creative & Design Tools
+### Creative tools:
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
