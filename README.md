@@ -1,8 +1,4 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pj+%F0%9F%91%8B;Creative+%7C+Developer+%7C+Artist;Code+%2B+Design+%3D+Empowerment;STEM-IT+Grad+%7C+CS+Student+@+UP+Baguio" alt="Typing SVG" />
-</div>
-
 ---
 ---
 
