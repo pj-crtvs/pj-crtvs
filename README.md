@@ -5,8 +5,8 @@
 ## 🌱 About Me
 
 🎓 **Current:**  
-📍 *BS Computer Science student* at **University of the Philippines – Baguio**  
-*Senior High School STEM-Information Technology graduate* from **FEU Diliman**, with **High Honors**
+- *BS Computer Science student* at **University of the Philippines – Baguio**  
+- *Senior High School STEM-Information Technology graduate* from **FEU Diliman**, with **High Honors**
 
 💡 **Passions:**  
 - Blending **technology, design, and storytelling**
