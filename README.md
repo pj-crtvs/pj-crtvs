@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### 💻 Programming & Web Development
 
