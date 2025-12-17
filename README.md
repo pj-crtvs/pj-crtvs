@@ -26,9 +26,9 @@
 
 | 💻 Project | 🌱 Description | 🔧 Tools / Stack |
 |-----------|----------------|------------------|
-| <a href = "https://ijr-website.netlify.app/"> `The Innovator Jr Website` | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · Photoshop · Illustrator |
-| <a href = "https://heyzine.com/flip-book/fd9b05fa46.html"> `The Innovator Jr School Paper`<a> | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Photoshop · Illustrator |
-| <a href = "https://gd.games/sairon/phylum-expedition">`Phylum Expedition`<a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. | Aseprite · Game Design Principles · Educational Research |
+| <a href = "https://ijr-website.netlify.app/" target="_blank"> `The Innovator Jr Website` | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · Photoshop · Illustrator |
+| <a href = "https://heyzine.com/flip-book/fd9b05fa46.html" target="_blank"> `The Innovator Jr School Paper`<a> | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Photoshop · Illustrator |
+| <a href = "https://gd.games/sairon/phylum-expedition" target="_blank">`Phylum Expedition`<a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. This research won the Best Research of Batch 2024-2025 | Aseprite · Game Design Principles · Educational Research |
 
 ---
 
