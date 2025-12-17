@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Pj+%F0%9F%91%8B;Creative+Developer+%7C+Artist+%7C+Journalist;Code+%2B+Design+%3D+Impact;Computer+Science+Student+%40+UP+Baguio" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Pj+%F0%9F%91%8B;Creative+Developer+%7C+Artist+%7C+Journalist;Code+%2B+Design;Computer+Science+Student+%40+UP+Baguio" 
     alt="Typing SVG" />
 </div>
 
@@ -26,9 +26,9 @@
 
 | 💻 Project | 🌱 Description | 🔧 Tools / Stack |
 |-----------|----------------|------------------|
-| <a href = "https://ijr-website.netlify.app/" target="_blank"> `The Innovator Jr Website` | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · Photoshop · Illustrator |
-| <a href = "https://heyzine.com/flip-book/fd9b05fa46.html" target="_blank"> `The Innovator Jr School Paper`<a> | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Photoshop · Illustrator |
-| <a href = "https://gd.games/sairon/phylum-expedition" target="_blank">`Phylum Expedition`<a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. This research won the Best Research of Batch 2024-2025 | Aseprite · Game Design Principles · Educational Research |
+| <a href = "https://ijr-website.netlify.app/" rel="noopener noreferrer"> `The Innovator Jr Website`</a> | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · Photoshop · Illustrator |
+| <a href = "https://heyzine.com/flip-book/fd9b05fa46.html" rel="noopener noreferrer"> `The Innovator Jr School Paper`</a> | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Photoshop · Illustrator |
+| <a href = "https://gd.games/sairon/phylum-expedition" rel="noopener noreferrer">`Phylum Expedition`</a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. I served as one of the digital illustrators. This research won the Best Research of Batch 2024-2025 | Aseprite · Game Design Principles · Educational Research |
 
 ---
 
