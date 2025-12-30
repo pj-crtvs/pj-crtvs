@@ -6,23 +6,23 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
-🎓 **Current:**  
-📍 *BS Computer Science student* at **University of the Philippines – Baguio**  
-🎓 *Senior High School STEM - Information Technology graduate* from **FEU Diliman**, with **High Honors**
+ **Current:**  
+- *BS Computer Science student* at **University of the Philippines – Baguio**  
+- *Senior High School STEM - Information Technology graduate* from **FEU Diliman**, with **High Honors**
 
-🧠 **Learning Focus:**  
-- Front-end Web Development (HTML, CSS, JS, React, Tailwind)
+ **Learning Focus:**  
+- Front-end Web Development (HTML, CSS, JS, React, Tailwind CSS)
 - Machine Learning and Automation using Python
 
-🎨 **Creative Side:**  
+ **Creative Side:**  
 - Layout and graphic design (Adobe Photoshop, Illustrator, InDesign, and Canva )
 - Digital zines, illustrations, and visual narratives
 
 ---
 
-## 🚀 Projects & Initiatives
+## Projects & Initiatives
 
 | 💻 Project | 🌱 Description | 🔧 Tools / Stack |
 |-----------|----------------|------------------|
@@ -34,9 +34,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 💻 Programming & Web Development
+### Programming & Web Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🎨 Creative & Design Tools
+### Creative & Design Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 ```yaml
 Languages:    JavaScript, Python, C, Java, R
