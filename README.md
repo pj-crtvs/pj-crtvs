@@ -10,25 +10,25 @@
 
  **Current:**  
 - *BS Computer Science student* at **University of the Philippines – Baguio**  
-- *Senior High School STEM - Information Technology graduate* from **FEU Diliman**, with **High Honors**
+- *Senior High School STEM - Information Technology graduate* from **FEU Diliman**
 
  **Learning Focus:**  
 - Front-end Web Development (HTML, CSS, JS, React, Tailwind CSS)
 - Machine Learning and Automation using Python
 
  **Creative Side:**  
-- Layout and graphic design (Adobe Photoshop, Illustrator, InDesign, and Canva )
-- Digital zines, illustrations, and visual narratives
+- Layout and Craphic Design (Adobe Photoshop, Illustrator, InDesign, and Canva)
+- Digital Newspaper and Magazines, Illustrations, and Visual Communication
 
 ---
 
 ## Projects & Initiatives
 
-| 💻 Project | 🌱 Description | 🔧 Tools / Stack |
+| Project | Description | Tools / Stack |
 |-----------|----------------|------------------|
-| <a href="https://ijr-website.netlify.app/" target="_blank" rel="noopener noreferrer">The Innovator Jr Website</a> | A student-centered news platform designed to make campus and national news more accessible and visually engaging. | HTML · CSS · Tailwind CSS · JavaScript · Photoshop · Illustrator |
-| <a href="https://heyzine.com/flip-book/fd9b05fa46.html" target="_blank" rel="noopener noreferrer">The Innovator Jr School Paper</a> | A print and digital school paper layouted and illustrated by me, showcasing stories, features, and news from our community. | Adobe InDesign · Adobe Photoshop · Adobe Illustrator |
-| <a href="https://gd.games/sairon/phylum-expedition" target="_blank" rel="noopener noreferrer">Phylum Expedition</a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. Best Research of Batch 2024–2025. | Aseprite · Game Design · Educational Research |
+| <a href="https://ijr-website.netlify.app/" target="_blank" rel="noopener noreferrer">The Innovator Jr Website</a> | Created student-centered news platform designed to make campus and national news more accessible and visually engaging to the student and the public. | HTML · CSS · JavaScript · Photoshop · Illustrator |
+| <a href="https://heyzine.com/flip-book/fd9b05fa46.html" target="_blank" rel="noopener noreferrer">The Innovator Jr School Paper</a> | A print and digital school paper layouted and illustrated by me. This project is created to showcase stories, features, and news from FEU Diliman and our community. | Adobe InDesign · Adobe Photoshop · Adobe Illustrator |
+| <a href="https://gd.games/sairon/phylum-expedition" target="_blank" rel="noopener noreferrer">Phylum Expedition</a> | A research-based educational game from our SHS capstone project. Designed to help students retain General Biology 2 concepts. Won Best Research of Batch 2024–2025. This is also published in <a href="https://www.researchgate.net/publication/401061820_Effectiveness_of_Phylum_Expedition_on_the_Retention_of_General_Biology_2_Concepts_Among_Grade_11_STEM_Health_Allied_Students" target="_blank" rel="noopener noreferrer">Research Gate</a>  | Aseprite · Game Design · Educational Research |
 | <a href="https://www.behance.net/gallery/233220001/PORTFOLIO-2025" target="_blank" rel="noopener noreferrer">Behance Portfolio 2k25</a> | A compilation of my creative projects from 2023 to 2025. | Adobe Photoshop · Adobe Illustrator |
 
 
