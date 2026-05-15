@@ -9,8 +9,8 @@
 ## About Me
 
  **Current:**  
-- *BS Computer Science student* at **University of the Philippines – Baguio**  
-- *Senior High School STEM - Information Technology graduate* from **FEU Diliman**
+- 1st Year - BS Computer Science student at **University of the Philippines – Baguio**  
+- Senior High School STEM - Information Technology graduate from **FEU Diliman**
 
  **Learning Focus:**  
 - Front-end Web Development (HTML, CSS, JS, React, Tailwind CSS)
