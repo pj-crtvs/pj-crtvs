@@ -22,7 +22,7 @@
 
 ---
 
-## Projects & Initiatives
+## Projects
 
 | Project | Description | Tools / Stack |
 |-----------|----------------|------------------|
