@@ -9,7 +9,7 @@
 ## About Me
 
  **Current:**  
-- 1st Year - BS Computer Science student at **University of the Philippines – Baguio**  
+- 2nd Year - BS Computer Science student at **University of the Philippines – Baguio**  
 - Senior High School STEM - Information Technology graduate from **FEU Diliman**
 
  **Learning Focus:**  
